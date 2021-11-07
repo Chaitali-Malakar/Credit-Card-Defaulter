@@ -8,6 +8,5 @@
 5)  Prepared features and labels
 6)  Training the models using - Logistic Regression,
 7)  Support Vector Machine, K-Nearest Neighbors,
-8)  Decision Trees, Gausian Naive Bayes, Random Forest,
-9)  XGBoost Classifier, ANN and finding out which model performed better?
-10) Software used: Python, Jupyter Notebook, Ms-Excel
+8)  Decision Trees, Gausian Naive Bayes, Random Forest, XGBoost Classifier, ANN and finding out which model performed better?
+9)  Software used: Python, Jupyter Notebook, Ms-Excel
